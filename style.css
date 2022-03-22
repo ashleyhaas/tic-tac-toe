@@ -1,0 +1,19 @@
+#container {
+  height: 500px;
+  width: 350px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
